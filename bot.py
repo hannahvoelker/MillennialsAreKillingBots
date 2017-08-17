@@ -9,6 +9,10 @@ def create_tweet():
     return text
 
 
+def scrape_for_news():
+""" scrape different news sites for Millenials are killing """
+
+
 def tweet(text):
     """Send out the text as a tweet."""
     # Twitter authentication
